@@ -1,0 +1,3 @@
+# Thorn v4
+Skid intent client, has Aetos fly bc zander_200 is a aetos dev and gave the thorn dev the code :(
+Also cant even make their own bednuker...
